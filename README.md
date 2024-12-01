@@ -29,21 +29,29 @@ We'll first look at the top ten aircrafts involved in the accidents.
 
 <img width="470" alt="Top ten aircraft" src="https://github.com/user-attachments/assets/05df61ab-60ca-41c6-ba0e-e7d291441486">
 
-### 2. Engine Type
-<img width="378" alt="Engine type" src="https://github.com/user-attachments/assets/6f1defb4-22f3-4b35-b94b-a2c1968f48d0">
+Cessna, Piper and Beech top the chart. But, it's too early to make a conclusion. We'll look at more graphs.
 
-This is in tandem with the make of aircraft. Most Cessnas and Pipers are small aircrafts which use small engines(reciprocating)
+### 2. Engine Type
+Aircrafts have different types of engines. Let's take a look at the types in our data
+
+<img width="674" alt="Count of data by engine type" src="https://github.com/user-attachments/assets/a51d49f9-3123-4986-a402-12b841c5bedf">
+
+Reciprocating engine takes the lead. This type of engine is also referred to a piston engine.
 
 ### 3. Purpose of flight
+There are different purposes when the planes take to the skies. Let's take a look at this.
 
 <img width="296" alt="Top ten purpose of flight" src="https://github.com/user-attachments/assets/0e7ce742-f621-4863-a0fb-cf74a724679e">
 
+So far, from the three graphs, we can start to see a trend in the data. So far, we can presume these personal planes are Cessna, Piper, and Beech, which have reciprocating engines.
+
 
 ### 4. Phase of flight
+Which phase of flight were these planes when the accident occurred? Let's take a look.
 
 <img width="407" alt="Phase of flight" src="https://github.com/user-attachments/assets/6a54e382-e9da-4444-8e39-e3b96a9c316a">
 
-
+Most accidents occurred during landing, take off and cruise. Next, we'll look at what weather condition theplanes were when the accident, and see if we can make a connection.
 ### 5. Weather Condition
 
 <img width="310" alt="Accidents by Weather" src="https://github.com/user-attachments/assets/223c8d1a-f693-4be4-bffc-c3c5416cc511">
