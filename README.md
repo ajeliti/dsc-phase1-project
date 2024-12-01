@@ -50,7 +50,7 @@ This is in tandem with the make of aircraft. Most Cessnas and Pipers are small a
 
 VMC - Visual meteorological Condition
 IMC - Instrument meteorological Condition 
-VMC is higher because in this condition, the pilot uses visual cues either to take off, or land the plane. 
+VMC is higher because in this condition, the pilot uses visual cues either to take off, or land the plane. This explains why most accidents happen during landing and take off as seen in the previous graph.
 
 ## Conclusion
 From the data analysis, we can see that the most planes involved in accidents are Cessna, Piper and Beech. The majority of these planes have reciprocating/piston engine, again shown from the analysis. One might say that it is not recommended to buy these planes, however the data does not suffice. We could say those are the most common airplanes hence the reason for the popularity in data. Other factors like price of airplanes, maintenance cost were not put into consideration which can be crucial in the purchase. Therefore, I recommend further analysis from other sources, so as to make a better decision.
